@@ -1,0 +1,1 @@
+This message was in the client folder,  GET worked!!
